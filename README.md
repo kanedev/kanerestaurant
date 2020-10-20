@@ -41,7 +41,6 @@ $ json-server --host YOUR_ADRESS_IP_HERE  --watch db.json -p 3001 -d 2000
 $ yarn 
 $ yarn start 
 ```
-📝 
 
 ## :sparkles: Features
 
@@ -49,18 +48,6 @@ $ yarn start
 
 ```sh
 npm run resize
-```
-
-⚡️ To compress images :
-
-```sh
-npm run compress
-```
-
-⚡️ To transform text to image : 
-
-```sh
-npm run txt2img
 ```
 
 
@@ -85,7 +72,7 @@ Want to stay up to date ?  Subscribe to my mailing list.
 
  ## 👥 Contributors
 
- **Walid**, <!--Reach out to me at one of the following places :--> 
+ **Walid** <!--Reach out to me at one of the following places :--> 
 
 ## 💉 Contributing
 
@@ -102,27 +89,16 @@ To fix a bug or enhance an existing code, follow these steps please :
 
 Feel free to send me feedback on Twitter or file an issue. Feature requests are always welcome. 😘
 
-## 🏆 Backers
-
-Thank you to all our backers! 🙏 [Become a backer]
-
-## ☕️ Buy me coffee
-Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)
-
-
-## 🎯 Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [Become a sponsor]
 
  ## 📃 Credits 
 
  This software uses the following open source packages:
 
-- [Nodejs](#https://nodejs.org)
+- [Nodejs](https://nodejs.org)
 - [Reactjs](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
 - [Mongoose](https://mongoosejs.com/)
-- [MongoDB](tps://www.mongodb.com)
+- [MongoDB](https://www.mongodb.com)
 - [Express](https://expressjs.com)
 - [Bootstap](https://getbootstrap.com)
 
