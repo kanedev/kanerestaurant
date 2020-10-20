@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to :  kanerestaurant 👋</h1>
+<h1 align="center">Welcome to :  kaneRestaurant 👋</h1>
 <p align="center"> Be sure to ⭐ my repo so you can keep up to date on any daily progress ! 😉 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ Want to stay up to date ?  Subscribe to my mailing list.
 Want to contribute ? Great !
 
 To fix a bug or enhance an existing code, follow these steps please :
-2. Fork it
+1. Fork it
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
