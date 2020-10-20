@@ -29,7 +29,6 @@
 - [Links](#links)
 
 - [Author](#author)
-
   
 
 ## 🚀 Install :
