@@ -10,7 +10,7 @@
 
 
 
-<p>A beautiful example project demonstrating how to build ... </p>
+<p>A beautiful example project demonstrating how to build a restaurant website </p>
 ![](name-of-giphy.gif)
 
 
@@ -37,10 +37,12 @@
 ```sh
 $ git clone https://github.com/kanedev/kanerestaurant
 $ cd kanerestaurant
+$ # Go to : kanerestaurant/src/shared/baseUrl.js and put your adress IP
+$ json-server --host YOUR_ADRESS_IP_HERE  --watch db.json -p 3001 -d 2000
 $ yarn 
 $ yarn start 
 ```
-
+📝 
 
 ## :sparkles: Features
 

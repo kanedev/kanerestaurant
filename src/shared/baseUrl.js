@@ -1,0 +1,1 @@
+export const baseUrl = 'http://192.168.0.14:3001/'; // Put your IP adress here
